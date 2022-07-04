@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# react-activity-2-5
+These are the remaining activity for Part 1 Task. See README for more info.
+
+2. Write a component with jsx - create-react-app or somethin
+3. Pass a value tru props
+4. Understnad react life cycle by implementing a clock that ticks every second
+5. Use useState hook
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
