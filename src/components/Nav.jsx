@@ -1,8 +1,9 @@
+import React, { useState } from "react";
 import Clock from "./Clock";
 
 const Nav = () =>{
 
-    const date = new Date();
+    const [date] = useState(new Date());
 
     return (
         <>
